@@ -1,8 +1,8 @@
 //EREN BİLGE KOÇAK
 //TEKNOLOJİ FAKÜLTESİ
 //YAZILIM MÜHENDİSLİĞİ
-//ÖDEV 1
 //B SINIFI
+//ÖDEV 1
 
 
 
