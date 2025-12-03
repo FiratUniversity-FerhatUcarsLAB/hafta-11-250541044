@@ -1,7 +1,7 @@
 //EREN BİLGE KOÇAK
 //TEKNOLOJİ FAKÜLTESİ
 //YAZILIM MÜHENDİSLİĞİ
-//ÖDEV 1
+//ÖDEV 2
 public class Exercise4_2 {
 
     public static void main(String[] args) {
