@@ -1,3 +1,7 @@
+//EREN BİLGE KOÇAK
+//YAZILIM MÜHENDİSİ
+//TEKNOLOJİ FAKÜLTESİ
+//SINIFI B
 public class Exercise4_4 {
 
     public static int getNumber() {
