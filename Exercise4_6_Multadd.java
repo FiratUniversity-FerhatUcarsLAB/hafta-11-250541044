@@ -2,6 +2,7 @@
 //YAZILIM MÜHENDİSİ
 //TEKNOLOJİ FAKÜLTESİ
 //SINIFI B
+//ÖDEV 6
 public class Multadd {
 
     // 1. multadd metodu: a * b + c islemini yapar ve yazdirir.
