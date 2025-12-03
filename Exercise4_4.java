@@ -2,6 +2,7 @@
 //YAZILIM MÜHENDİSİ
 //TEKNOLOJİ FAKÜLTESİ
 //SINIFI B
+//ÖDEV 4
 public class Exercise4_4 {
 
     public static int getNumber() {
