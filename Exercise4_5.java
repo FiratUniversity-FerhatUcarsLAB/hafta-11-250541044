@@ -1,4 +1,8 @@
-public class Exercise4_5 {
+
+//EREN BİLGE KOÇAK
+//YAZILIM MÜHENDİSİ
+//TEKNOLOJİ FAKÜLTESİ
+//SINIFI Bpublic class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
         System.out.println(fred);
